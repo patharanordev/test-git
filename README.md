@@ -72,3 +72,7 @@
     > ---
 
     ![test-husky-fix-conflict](./assets/test-husky-fix-conflict.png)
+
+## Example result from `rev-parse` with `MERGE_HEAD`
+
+![ex-rev-parse-merge-head](./assets/ex-rev-parse-merge-head.png)
